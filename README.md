@@ -19,9 +19,9 @@ To build a strong foundation in:
 sumitra-eda-journey/
 
 │
-├── notebooks/ # Jupyter notebooks (day-wise practice)
+├── datasets/ # Datasets used for analysis 
 
-├── datasets/ # Datasets used for analysis
+├── notebooks/ # Jupyter notebooks (day-wise practice)
 
 └── README.md
 
