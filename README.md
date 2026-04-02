@@ -17,9 +17,12 @@ To build a strong foundation in:
 
 ## 📁 Repository Structure
 sumitra-eda-journey/
+
 │
 ├── notebooks/ # Jupyter notebooks (day-wise practice)
+
 ├── datasets/ # Datasets used for analysis
+
 └── README.md
 
 -----
