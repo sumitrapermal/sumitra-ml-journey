@@ -21,9 +21,13 @@ To become a Machine Learning Engineer by building a strong foundation in:
 ## 📁 Repository Structure
 
 sumitra-ml-journey/
+
 │
+
 ├── notebooks/ # Day-wise Jupyter notebooks
+
 ├── datasets/ # Datasets used
+
 └── README.md
 
 ---
